@@ -1,0 +1,4 @@
+.hero__cards{
+    display: flex;
+    flex-direction: row-reverse;
+}

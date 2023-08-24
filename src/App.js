@@ -9,7 +9,12 @@ function App() {
     <div>
       <Navbar/>
       <Hero />
-      <Card/>
+      <div className='hero__cards'>
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+      </div>
     </div>
   );
 }
