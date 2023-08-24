@@ -1,0 +1,25 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    height: 3rem;
+    margin: 0 1rem;
+}
+
+.navbar__left {
+    display: flex;
+    align-items: center;
+    width: 30rem;
+}
+
+.navbar__left img{
+    width: 7rem;
+}
+
+.navbar__right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 55rem;
+    justify-content: space-between;
+}
+
