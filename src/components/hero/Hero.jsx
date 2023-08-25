@@ -20,7 +20,7 @@ const Hero = () => {
                 </div>
                 <div className="hero__right">
                     <div className="heading">
-                        bullets
+                        
                     </div>
                 </div>
 

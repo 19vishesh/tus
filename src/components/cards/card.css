@@ -1,16 +1,15 @@
-.card__section{
-    /* height: 60rem; */
-}
+
 .card {
-    width: 250px;
+    width: 200px;
     overflow: hidden;
     box-shadow: 0px 0px 15px -5px;
     border-radius: 30px;
+    margin: 1rem;
 }
 
 .card__image img{
     overflow: hidden;
-    height: 200px;
+    height: 150px;
 }
 
 .card__heading{
